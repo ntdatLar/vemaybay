@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.elines.vn	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	fybtrhxqlr0gfet40uorfmro
+.elines.vn	TRUE	/	FALSE	1999999999	__cfduid	dff51c410bf5b99dd39d27f9790eb07d51521477918
+.dichvuhangkhong.com.vn	TRUE	/	FALSE	1999999999	__cfduid	d7ecd655e746bad45db06ed67dacf19871521477987
+.jetstar.com	TRUE	/	FALSE	1999999999	user-location	country_code=VN,region_code=NONE,city=HANOI,lat=21.03,long=105.85
+.jetstar.com	TRUE	/	FALSE	1999999999	_abck	CAB14B87B28A1476AA632AD9C1C88E20B81A5BCC35030000B9E9AF5A9D87A163~-1~7TjeNUOTWhK3yGPsfJ2fQ0HXP/WDkTsXO8aheeC/Wpw=~-1~-1
+.jetstar.com	TRUE	/	FALSE	1999999999	bm_sz	EB143DA495109564495675DDCCA27407~QAAQzFsauE6oFg1iAQAAPP4oP30gUO2bo+Z5eJ5LiBf2kPdYz4XSx0+aueifabL5HZD2W5Ddbhr3dMUBFivVXy7w/PuT0wf3a65/bXqL6c5YxpyMT6f1UJcSWBk/bGi8Cqc3DsPvFpnM7hLlp5V4MiMJZ659mwc0lGpvTa2wtDeeS4DpO5L/SDv3JeaL7Tub
+
