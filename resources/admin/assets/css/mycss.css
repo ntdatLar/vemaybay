@@ -1,0 +1,25 @@
+#editItem:hover ,.delItem:hover{
+    background: #4F5467;
+    transition: all 0.5s;
+    color: #fff;
+    border: none;
+}
+#editItem:hover i,.delItem:hover i{
+    transition: all 0.5s;
+    color: #fff;
+}
+#editItem ,.delItem{
+    width: 30px;
+    height: 30px;
+    border: thin solid #CCCCCC;
+    border-radius: 100% ;
+    display: block;
+    text-align: center;
+    line-height: 30px;
+    float: left;
+    margin-left:5px;
+    transition: all 0.5s;
+}
+#editItem i,.delItem i{
+    font-size: 15px;
+}
